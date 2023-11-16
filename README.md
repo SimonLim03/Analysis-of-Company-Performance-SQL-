@@ -4,7 +4,10 @@
 1. For their annual review of the company pricing strategy,
 the Product Team wants to look at the products that are currently being offered for a specific price range ($10 to $50).
 
-In order to help them they asked you to provide them with a list of products with the following information
+There are 52 products that are currently being offered for a price range between $10 to $50 with the lowest price of $10 for “Sir Rodney’s Scones” and the highest price of $49.3 for “Tarte au sucre”. 
+
+![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/05fc4d0f-2075-4fbe-97eb-4a0901cfe626)
+
 </p>
 
 <hr>
