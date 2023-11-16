@@ -35,3 +35,7 @@ their manager full name (first name and last name combined in a single field)
 
 their manager job title
 
+</p>
+
+<hr>
+
