@@ -19,3 +19,19 @@ Filtered on the following conditions:
 </p>
 
 <hr>
+
+<p>
+3. The HR Team wants to know for each employee what was their age on the date they joined the company and who they currently report to. Provide them with a list of every employees with the following information:
+
+their full name (first name and last name combined in a single field)
+
+their job title
+
+their age at the time they were hired
+
+their tenure in years until current date
+
+their manager full name (first name and last name combined in a single field)
+
+their manager job title
+
