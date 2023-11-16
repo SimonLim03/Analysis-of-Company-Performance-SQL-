@@ -17,7 +17,7 @@ There are 52 products that are currently being offered for a price range between
 
 The Logistics Team wants to do a retrospection of their performances for the year 1997, in order to identify for which countries they didn’t perform well. There are 18 countries, in which Northwind products were ordered and shipped in 1997. Accordingly, the lowest number of orders in 1997 is Argentina, which had only 6 orders, with average 5.67 days between the order date and the shipping date.
 
-![Uploading image.png…]()
+![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/3ca81fdb-d262-46a4-9558-630fec01bf0e)
 
 
 </p>
