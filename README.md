@@ -31,7 +31,7 @@ The HR Team wants to know for each employee what was their age on the date they 
 
 
 | Employee name | The age employee was hired | Name of the manager |
-| ---------|----------|----------|
+|:------------:|:------------:|:------------:|
 | Anne Dodsworth | 29 | Steven Buchanan |
 | Janet Leverling | 29 | Andrew Fuller |
 | Michael Suyama | 30 | Steven Buchanan |
