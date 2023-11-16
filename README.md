@@ -1,5 +1,8 @@
 # Analysis-of-Company-Performance-SQL-
 
+### This project has been performed based on a Postgres database
+
+
 <p>
 1. For their annual review of the company pricing strategy,
 the Product Team wants to look at the products that are currently being offered for a specific price range ($10 to $50).
