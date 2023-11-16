@@ -48,8 +48,60 @@ The HR Team wants to know for each employee what was their age on the date they 
 <hr>
 
 <p>
+4. 4.	The Logistics Team wants to do a retrospection of their global performance over 1996-1997, in order to identify which month they perform well. There were 7 months over 1996-1997, which are October 1997, December 1997, May 1997, September 1997, August 1997, April 1997 and December 1996. The highest number of orders was in December 1997.
+
+![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/4360cb88-9ce4-4679-a7a5-e612cf4b65ed)
 
 
 </p>
 
+<hr>
+
+<p>
+
+5.	The Pricing Team wants to know which products had an unit price increase and the percentage increase was not between 10% and 30%. Out of 80 products, there are only two products, “Queso Cabrales” (50% increase) and “Singaporean Hokkien Fried Mee” (42.86% increase), which had a unit price increase greater than 30%. Exceptionally, “Mozzarella di Giovanni” product had a unit price decrease about -20%. Other than that, all other products have no price change.
+
+</p>
+
+<hr>
+
+<p>
+
+6. The Pricing Team wants to know how each category performs according to their price range. Here is a pie chart, describing total number of orders for different categories in different price range.
+![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/a3bab083-b045-48a1-801c-f3481312ecb5)
+
+
+</p>
+
+<hr>
+
+<p>
+  
+8. The Pricing Team wants to know for each currently offered product how their unit price compares against their categories average and median unit price.
+
+![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/51357f06-dcf8-415f-9fe0-781570b846ad)
+![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/187a42bd-1b19-4bf8-8fe7-c314b516597e)
+![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/62591e55-b549-4e7f-b7ce-f85336226667)
+
+
+</p>
+
+<hr>
+
+<p>
+  
+9.	The Sale Teams wants to build a list of KPIs to measure employees’ performances. There are 9 employees in total and the graphs show total sale amount excluding discount and average order amount.
+![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/9a1af186-8195-44c5-8a5d-213d6757c299)
+![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/0272fcef-2fe3-4dee-98e1-e67ec3f6b1b1)
+
+
+</p>
+
+<hr>
+
+<p>
+10.	The Sales Team wants to build another list of KPIs to measure employees’ performance across each category
+
+
+</p>
 
