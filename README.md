@@ -64,6 +64,7 @@ The HR Team wants to know for each employee what was their age on the date they 
 
 <p>
 6. The Pricing Team wants to know how each category performs according to their price range. Here is a pie chart, describing total number of orders for different categories in different price range.
+  
 ![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/a3bab083-b045-48a1-801c-f3481312ecb5)
 
 
@@ -73,6 +74,7 @@ The HR Team wants to know for each employee what was their age on the date they 
 
 <p>  
 8. The Pricing Team wants to know for each currently offered product how their unit price compares against their categories average and median unit price.
+
 ![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/51357f06-dcf8-415f-9fe0-781570b846ad)
 ![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/187a42bd-1b19-4bf8-8fe7-c314b516597e)
 ![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/62591e55-b549-4e7f-b7ce-f85336226667)
@@ -84,6 +86,7 @@ The HR Team wants to know for each employee what was their age on the date they 
 
 <p>
 9.	The Sale Teams wants to build a list of KPIs to measure employees’ performances. There are 9 employees in total and the graphs show total sale amount excluding discount and average order amount.
+
 ![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/9a1af186-8195-44c5-8a5d-213d6757c299)
 ![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/0272fcef-2fe3-4dee-98e1-e67ec3f6b1b1)
 
