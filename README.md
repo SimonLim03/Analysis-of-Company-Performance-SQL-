@@ -29,16 +29,19 @@ The Logistics Team wants to do a retrospection of their performances for the yea
 
 The HR Team wants to know for each employee what was their age on the date they joined the company and who they currently report to. There are 9 employees in Northwind and here is a table for each employee with the age they were hired and the name of their manager. 
 
-Employee name	The age employee was hired	Name of the manager
-Anne Dodsworth	29	Steven Buchanan
-Janet Leverling	29	Andrew Fuller
-Michael Suyama	30	Steven Buchanan
-Robert King	34	Steven Buchanan
-Laura Callahan	36	Andrew Fuller
-Steven Buchanan	39	Andrew Fuller
-Andrew Fuller	40	None
-Nancy Davolio	43	Andrew Fuller
-Margaret Peacock	56	Andrew Fuller
+
+| Employee name | The age employee was hired | Name of the manager |
+| ---------|----------|----------|
+| Anne Dodsworth | 29 | Steven Buchanan |
+| Janet Leverling | 29 | Andrew Fuller |
+| Michael Suyama | 30 | Steven Buchanan |
+| Robert King | 34 | Steven Buchanan |
+| Laura Callahan | 36 | Andrew Fuller |
+| Steven Buchanan | 39 | Andrew Fuller |
+| Andrew Fuller | 40 | None |
+| Nancy Davolio | 43 | Andrew Fuller |
+| Margaret Peacock | 56 | Andrew Fuller |
+
 
 </p>
 
