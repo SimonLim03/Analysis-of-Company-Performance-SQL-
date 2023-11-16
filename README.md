@@ -9,7 +9,8 @@ the Product Team wants to look at the products that are currently being offered 
 
 There are 52 products that are currently being offered for a price range between $10 to $50 with the lowest price of $10 for “Sir Rodney’s Scones” and the highest price of $49.3 for “Tarte au sucre”. 
 
-![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/05fc4d0f-2075-4fbe-97eb-4a0901cfe626)
+![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/ea198c4b-15d8-45ae-bda6-f2d66d3ef02a)
+
 
 </p>
 
