@@ -1,0 +1,26 @@
+category_name,supplier_region,units_in_stock,units_on_order,reorder_level
+Beverages,OR,3349,0,925
+Beverages,Victoria,585,390,1170
+Beverages,null,14177,2040,4620
+Condiments,LA,3524,800,160
+Condiments,MI,1518,0,300
+Condiments,Québec,2712,0,600
+Condiments,Victoria,408,0,85
+Condiments,null,2254,840,1260
+Confections,Québec,816,0,0
+Confections,Victoria,1247,0,430
+Confections,null,5881,3580,2465
+Dairy Products,Asturias,2040,1140,1140
+Dairy Products,null,11384,4170,2500
+Grains/Cereals,NSW,1102,0,725
+Grains/Cereals,null,5994,2900,3710
+Meat/Poultry,NSW,0,0,0
+Meat/Poultry,Québec,4551,0,1020
+Meat/Poultry,Victoria,0,0,0
+Meat/Poultry,null,145,0,0
+Produce,MI,435,0,290
+Produce,NSW,780,0,390
+Produce,null,1680,260,65
+Seafood,MA,9038,0,1700
+Seafood,Victoria,1134,0,0
+Seafood,null,11006,1280,2090
