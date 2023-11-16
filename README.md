@@ -13,8 +13,7 @@ There are 52 products that are currently being offered for a price range between
 <hr>
 
 <p>
-2. The Logistics Team wants to do a retrospection of their performances for the year 1997, in order to identify for which countries they didn’t perform well. 
-
+2.
 The Logistics Team wants to do a retrospection of their performances for the year 1997, in order to identify for which countries they didn’t perform well. There are 18 countries, in which Northwind products were ordered and shipped in 1997. Accordingly, the lowest number of orders in 1997 is Argentina, which had only 6 orders, with average 5.67 days between the order date and the shipping date.
 
 ![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/3ca81fdb-d262-46a4-9558-630fec01bf0e)
@@ -25,8 +24,7 @@ The Logistics Team wants to do a retrospection of their performances for the yea
 <hr>
 
 <p>
-3. The HR Team wants to know for each employee what was their age on the date they joined the company and who they currently report to. 
-
+3. 
 The HR Team wants to know for each employee what was their age on the date they joined the company and who they currently report to. There are 9 employees in Northwind and here is a table for each employee with the age they were hired and the name of their manager. 
 
 
@@ -48,7 +46,7 @@ The HR Team wants to know for each employee what was their age on the date they 
 <hr>
 
 <p>
-4. 4.	The Logistics Team wants to do a retrospection of their global performance over 1996-1997, in order to identify which month they perform well. There were 7 months over 1996-1997, which are October 1997, December 1997, May 1997, September 1997, August 1997, April 1997 and December 1996. The highest number of orders was in December 1997.
+4.	The Logistics Team wants to do a retrospection of their global performance over 1996-1997, in order to identify which month they perform well. There were 7 months over 1996-1997, which are October 1997, December 1997, May 1997, September 1997, August 1997, April 1997 and December 1996. The highest number of orders was in December 1997.
 
 ![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/4360cb88-9ce4-4679-a7a5-e612cf4b65ed)
 
@@ -101,6 +99,12 @@ The HR Team wants to know for each employee what was their age on the date they 
 
 <p>
 10.	The Sales Team wants to build another list of KPIs to measure employees’ performance across each category
+![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/76316f01-bce9-4943-b76b-5e83cf409d0e)
+![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/e8ce7230-887b-40cb-8760-0ec457d10224)
+![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/e6cae2e3-f658-4b43-8b58-050e09b6cedd)
+![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/9d44cabe-3213-4fca-bc1d-dc2360302354)
+![image](https://github.com/SimonLim03/Analysis-of-Company-Performance-SQL-/assets/150989115/5972b1d9-522d-40ba-b410-a485127a6752)
+
 
 
 </p>
