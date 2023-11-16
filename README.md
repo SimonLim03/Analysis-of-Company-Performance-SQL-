@@ -1,6 +1,6 @@
 # Analysis-of-Company-Performance-SQL-
 
-### This project has been performed based on a Postgres database
+### This project has been conducted based on a Postgres database
 
 
 <p>
